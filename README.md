@@ -92,15 +92,15 @@ Notebooks for analaysis still hold latest state with figures.<br/>
 
 __Authors:__
 
-- __Hanxi Sun__, _Purdue University, Department of Statistics_
-- __Jason Plawinski__, _Novartis_
+- __Hanxi Sun<sup>*</sup>__, _Purdue University, Department of Statistics_
+- __Jason Plawinski<sup>*</sup>__, _Novartis_
 - __Sajanth Subramaniam__, _Novartis_
 - __Amir Jamaludin__, _Oxford Big Data Institute_
 - __Timor Kadir__, _Oxford Big Data Institute_
 - __Aimee Readie__, _Novartis_
 - __Gregory Ligozio__, _Novartis_
 - __David Ohlssen__,_Novartis_
-- __Mark Baillie__, _Novartis_
-- __Thibaud Coroller__, _Novartis_
+- __Mark Baillie<sup>#</sup>__, _Novartis_
+- __Thibaud Coroller<sup>#</sup><sup>@</sup>__, _Novartis_
 
-
+<sup>*</sup>co-first authors; <sup>#</sup>co-last authors; <sup>@</sup> corresponding author
