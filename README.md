@@ -22,16 +22,21 @@ Notebooks for analaysis still hold latest state with figures.<br/>
 
 ### Scripts, Notebooks and Demos
 1. __Training and generating synthetic VUs and corresponding regions__ 
-    - `Training`: Model training code can be found here [src/manuscript/Train/train_region.py](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Train/train_region.py)
-    - `Inference`: Generating synthetic samples from [src/manuscript/Train/Generate_image.ipynb.py](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Train/Generate_image.ipynb)
+    - `Training`: Model training code can be found here:
+        * [src/manuscript/Train/train_region.py](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Train/train_region.py)
+    - `Inference`: Generating synthetic samples:
+        * [src/manuscript/Train/Generate_image.ipynb.py](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Train/Generate_image.ipynb)
 2. __Fidelity - Analysis__ 
-    - `Fetching and plotting` real images from different regions, plotting synthetic samples, interpolating between classes: [src/manuscript/Fidelity/1_images_qualitative_inspection.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Fidelity/1_images_qualitative_inspection.ipynb)
+    - `Fetching and plotting` real images from different regions, plotting synthetic samples, interpolating between classes:        
+        * [src/manuscript/Fidelity/1_images_qualitative_inspection.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Fidelity/1_images_qualitative_inspection.ipynb)
 3. __Diversity - Analysis__ 
     - `Preprocessing`, preparing dataset and training UMAP: 
         * [1_generate_synth_112_224.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Diversity/1_generate_synth_112_224.ipynb)
         * [2_train_umap_112_224.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Diversity/2_train_umap_112_224.ipynb)
-    - `UMAP` diversity visualization: [3_plot_umap_diversity.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Diversity/3_plot_umap_diversity.ipynb)
-    - `Classification` analysis, quantitative diversity evaluation: [4_classifier_analysis.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Diversity/4_classifier_analysis.ipynb)
+    - `UMAP` diversity visualization: 
+        * [3_plot_umap_diversity.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Diversity/3_plot_umap_diversity.ipynb)
+    - `Classification` analysis, quantitative diversity evaluation: 
+        * [4_classifier_analysis.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Diversity/4_classifier_analysis.ipynb)
 4. __Privacy - Analysis__ 
     - `Preprocessing`, computing features and similartiy:
         * [1_prepare_9_64_64_pixel_space.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Privacy/1_prepare_9_64_64_pixel_space.ipynb)
@@ -40,7 +45,8 @@ Notebooks for analaysis still hold latest state with figures.<br/>
     - `Pairwise and density attack` robustness: 
         * [4_plot_pairwise_attacks.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Privacy/4_plot_pairwise_attacks.ipynb)
         * [5_plot_density_attacks.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Privacy/5_plot_density_attacks.ipynb)
-    - `Embedding space` density visualization: [6_density_plot.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Privacy/5_plot_density_attacks.ipynb)
+    - `Embedding space` density visualization: 
+        * [6_density_plot.ipynb](https://github.com/tcoroller/pGAN/blob/master/src/manuscript/Privacy/5_plot_density_attacks.ipynb)
 
 ### Structure
 
