@@ -112,7 +112,7 @@ __Authors:__
 - __Timor Kadir__, _Oxford Big Data Institute_
 - __Aimee Readie__, _Novartis_
 - __Gregory Ligozio__, _Novartis_
-- __David Ohlssen__,_Novartis_
+- __David Ohlssen__, _Novartis_
 - __Mark Baillie<sup>#</sup>__, _Novartis_
 - __Thibaud Coroller<sup>#</sup><sup>@</sup>__, _Novartis_
 
