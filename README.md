@@ -1,7 +1,7 @@
 # A Deep Learning Approach to Private Data Sharing of Medical Images Using Conditional GANs
 
 ## Publications
-* ArXiv: `TBD`
+* ArXiv: https://arxiv.org/abs/2106.13199
 
 ## Project
 
@@ -10,7 +10,7 @@ Investigate application of `GANs` in medical images. Scope of the project includ
 2. Conduct an extensive evaluation of the dataset behavior and on the trade off between image quality/dataset faithfulness and privacy.
 
 ## Related dataset:
-* Link to `Zenodo TBD`
+* Link to the data: https://zenodo.org/record/5031881
 An hdf5 database of the synethetic dataset (10000 pairs of images and region, 2.95GB) is shared with the code.<br/>
 With some minor tweaking, the synthetic dataset can be used to run training and analysis to validate the code.
 (The analysis itself will be far less relevant because comparing privacy on two synthetic dataset is not very useful)
